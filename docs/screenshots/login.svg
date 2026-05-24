@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#eef3f7"/>
+  <rect x="24" y="24" width="1232" height="672" rx="8" fill="#f9fbfc" stroke="#d9e3ea"/>
+  <rect x="24" y="24" width="612" height="672" rx="8" fill="#123244"/>
+  <path d="M24 515C145 461 272 456 407 501C564 553 717 562 866 500C953 464 1037 453 1116 463V696H24V515Z" fill="#2f9a8f" opacity=".35"/>
+  <text x="64" y="86" fill="#fff" font-family="Segoe UI, Arial" font-size="28" font-weight="800">MediCore</text>
+  <text x="64" y="428" fill="#b9d8dc" font-family="Segoe UI, Arial" font-size="18" font-weight="800">HOSPITAL MANAGEMENT</text>
+  <text x="64" y="490" fill="#fff" font-family="Segoe UI, Arial" font-size="58" font-weight="900">Appointments,</text>
+  <text x="64" y="555" fill="#fff" font-family="Segoe UI, Arial" font-size="58" font-weight="900">doctors, schedules,</text>
+  <text x="64" y="620" fill="#fff" font-family="Segoe UI, Arial" font-size="58" font-weight="900">and prescriptions.</text>
+  <rect x="700" y="118" width="420" height="48" rx="8" fill="#eef3f7" stroke="#d9e3ea"/>
+  <rect x="706" y="124" width="202" height="36" rx="6" fill="#fff"/>
+  <text x="776" y="148" fill="#0e2738" font-family="Segoe UI, Arial" font-size="15" font-weight="800">Sign in</text>
+  <text x="976" y="148" fill="#576879" font-family="Segoe UI, Arial" font-size="15" font-weight="800">Register</text>
+  <text x="700" y="222" fill="#4e5f6e" font-family="Segoe UI, Arial" font-size="16" font-weight="800">Email</text>
+  <rect x="700" y="238" width="420" height="54" rx="8" fill="#fff" stroke="#cedbe4"/>
+  <text x="722" y="272" fill="#8a99a6" font-family="Segoe UI, Arial" font-size="16">you@example.com</text>
+  <text x="700" y="340" fill="#4e5f6e" font-family="Segoe UI, Arial" font-size="16" font-weight="800">Password</text>
+  <rect x="700" y="356" width="420" height="54" rx="8" fill="#fff" stroke="#cedbe4"/>
+  <text x="722" y="390" fill="#8a99a6" font-family="Segoe UI, Arial" font-size="16">Your password</text>
+  <rect x="700" y="454" width="420" height="54" rx="8" fill="#11707d"/>
+  <text x="884" y="488" fill="#fff" font-family="Segoe UI, Arial" font-size="17" font-weight="900">Sign in</text>
+</svg>
